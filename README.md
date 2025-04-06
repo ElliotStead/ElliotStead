@@ -1,3 +1,3 @@
 ## Hello
-## I like making rockets
-## I am currently working on getting into college
+I like making rockets
+RPI 29'
